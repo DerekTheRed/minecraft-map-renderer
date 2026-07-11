@@ -4,7 +4,7 @@ A tool that reads a Minecraft: Java Edition world or server folder and generates
 
 ## Example
 
-<!-- ![Example map](assets/example.png) -->
+![Example map](assets/example.png)
 
 ## Installation
 
